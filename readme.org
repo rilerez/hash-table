@@ -1,0 +1,4 @@
+* A minimal hash table implementation
+** uses open addressing
+*** Chandler Carruth talks about this here https://www.youtube.com/watch?v=fHNmRkzxHWs
+** currently does not support remove
