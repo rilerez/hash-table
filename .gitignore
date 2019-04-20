@@ -1,2 +1,10 @@
 *.out
 *~
+/.#hashtable.hpp
+/graph_info.json
+/conaninfo.txt
+/CMakeCache.txt
+/conanbuildinfo.txt
+/conanbuildinfo.cmake
+CMakeFiles/*
+./build/*
